@@ -1,4 +1,6 @@
 name: DEV - Tutorial BE Configuration
+on:
+  workflow_dispatch:
 
 jobs:
   set-configuration:
